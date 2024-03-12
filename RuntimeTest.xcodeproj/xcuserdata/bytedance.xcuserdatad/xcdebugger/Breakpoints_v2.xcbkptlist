@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4070521D-D9F2-4C20-BF10-D18EC0E19909"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "5C3CE7E8-AF6B-48BB-B9FB-AD631705CE2A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "___forwarding___"
+            moduleName = "">
+            <Locations>
+               <Location
+                  uuid = "5C3CE7E8-AF6B-48BB-B9FB-AD631705CE2A - 3f29b8b823d1e7d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "___forwarding___"
+                  moduleName = "CoreFoundation"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "381BFD10-C4BB-4DB0-9579-4A9687F89C4D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RuntimeTest/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "-testVoid"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "381BFD10-C4BB-4DB0-9579-4A9687F89C4D - c2179e4033073ad2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController testVoid]"
+                  moduleName = "RuntimeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/Desktop/RuntimeTest/RuntimeTest/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "381BFD10-C4BB-4DB0-9579-4A9687F89C4D - c2179e4033073a10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController testVoid]"
+                  moduleName = "RuntimeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/Desktop/RuntimeTest/RuntimeTest/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "381BFD10-C4BB-4DB0-9579-4A9687F89C4D - c2179e403307326d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController testVoid]"
+                  moduleName = "RuntimeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/Desktop/RuntimeTest/RuntimeTest/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "381BFD10-C4BB-4DB0-9579-4A9687F89C4D - c2179e403307324c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController testVoid]"
+                  moduleName = "RuntimeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/Desktop/RuntimeTest/RuntimeTest/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "381BFD10-C4BB-4DB0-9579-4A9687F89C4D - c2179e403307326d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController testVoid]"
+                  moduleName = "RuntimeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/Desktop/RuntimeTest/RuntimeTest/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4BC6B1F3-C6DA-4E46-8FE4-516F51759A30"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RuntimeTest/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "-testFloat"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4BC6B1F3-C6DA-4E46-8FE4-516F51759A30 - f4b279183f934908"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController testFloat]"
+                  moduleName = "RuntimeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/Desktop/RuntimeTest/RuntimeTest/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "4BC6B1F3-C6DA-4E46-8FE4-516F51759A30 - f4b279183f93494e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController testFloat]"
+                  moduleName = "RuntimeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/Desktop/RuntimeTest/RuntimeTest/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "4BC6B1F3-C6DA-4E46-8FE4-516F51759A30 - f4b279183f93416d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController testFloat]"
+                  moduleName = "RuntimeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/Desktop/RuntimeTest/RuntimeTest/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "4BC6B1F3-C6DA-4E46-8FE4-516F51759A30 - f4b279183f934182"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController testFloat]"
+                  moduleName = "RuntimeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/Desktop/RuntimeTest/RuntimeTest/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "4BC6B1F3-C6DA-4E46-8FE4-516F51759A30 - f4b279183f934182"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController testFloat]"
+                  moduleName = "RuntimeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/Desktop/RuntimeTest/RuntimeTest/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2C4EDFC-673F-48EA-B467-7F1EBF83EAD0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RuntimeTest/AppDelegate.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "-application:didFinishLaunchingWithOptions:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B2C4EDFC-673F-48EA-B467-7F1EBF83EAD0 - b9423db9e657d533"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AppDelegate application:didFinishLaunchingWithOptions:]"
+                  moduleName = "RuntimeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/Desktop/RuntimeTest/RuntimeTest/AppDelegate.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "B2C4EDFC-673F-48EA-B467-7F1EBF83EAD0 - b9423db9e657d556"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AppDelegate application:didFinishLaunchingWithOptions:]"
+                  moduleName = "RuntimeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/Desktop/RuntimeTest/RuntimeTest/AppDelegate.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "B2C4EDFC-673F-48EA-B467-7F1EBF83EAD0 - b9423db9e657d494"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AppDelegate application:didFinishLaunchingWithOptions:]"
+                  moduleName = "RuntimeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/Desktop/RuntimeTest/RuntimeTest/AppDelegate.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB808922-10D8-4365-AB72-5A3B1AB207BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RuntimeTest/AppDelegate.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "-application:didFinishLaunchingWithOptions:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE113280-B3FF-4394-82D2-B23FD619BC83"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RuntimeTest/Warpper.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "HCZIsBlock(block)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2A2C088-CC8E-4724-B8A7-198E80C41CA6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RuntimeTest/Warpper.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "printCallerForDispatchOnce()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "208408AE-3E03-4D9B-97FB-7860634478E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RuntimeTest/Warpper.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "printCallerForDispatchOnce()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
